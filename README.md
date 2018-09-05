@@ -1,2 +1,1 @@
-# isotop
-Isotop is jquery plugin it make website more beautyful  
+ # আইসোটোপ এর ব্যবহার ।
